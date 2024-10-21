@@ -45,6 +45,6 @@ senao
 escreva("Reprovado")
 
 
+FIMSE
 
 Fimalgoritmo
-FIMSE
