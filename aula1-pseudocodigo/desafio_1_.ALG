@@ -7,7 +7,9 @@ Algoritmo "Desafio 1"
 Var
 // Seção de Declarações das variáveis
 nome, turma, disciplina: caracter
-N1, N2, N3, N4, N5: inteiro
+N1, N2, N3, N4: inteiro
+peso1: inteiro
+peso2: inteiro
 resultado: real
 
 
@@ -25,10 +27,8 @@ escreval("N3: ")
 leia(N3)
 escreval("N4: ")
 leia(N4)
-escreval("N5: ")
-leia(N5)
 
-resultado <- (N1 + N2 + N3 + N4 + N5)/5
+resultado <- (N1 + N2 + N3 + N4)/5
 escreval("Resultado: ",resultado:2:2)
 
 Fimalgoritmo
