@@ -6,12 +6,39 @@ Algoritmo "Cadastro completo"
 // Data atual  : 21/10/2024
 Var
 // Seção de Declarações das variáveis 
-nome, sobrenome, cidade, sexo, enderoco: caracter
+nome, sobrenome, cidade, sexo, endereco: caracter
 idade: inteiro
-rg, cpf:
+rg, cpf: caracter
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Cadastro Completo
+escreval("## Cadastro Lojas Tabajara ##")
+escreva("Informe o nome do cliente: ")
+leia(nome)
+escreva("Informe o sobrenome do cliente: ")
+leia(sobrenome)
+escreva("Informe o endereco: ")
+leia(endereco)
+escreva("Cidade: ")
+leia(cidade)
+escreva("sexo: ")
+leia(sexo)
+escreva("Informe a idade: ")
+leia(idade)
+escreva("Informe rg: ")
+leia(rg)
+escreva("informe cpf: ")
+leia(cpf)
+escreval("        ")
+escreval("## Dados Informados pelo usuário")
+escreval("Nome Completo: ",nome," ",sobrenome,".")
+escreval("idade: ",idade)
+escreval("Sexo: ",sexo)
+escreval("Endereço: ",endereco,", Cidade: ",cidade)
+escreval("RG: ",rg)
+escreval("CPF: ",cpf)
+escreval("         ")
+escreva("Cadastro efetuado com sucesso!")
 
 
 Fimalgoritmo

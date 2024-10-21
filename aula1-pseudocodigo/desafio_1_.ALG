@@ -6,7 +6,7 @@ Algoritmo "Desafio 1"
 // Data atual  : 21/10/2024
 Var
 // Seção de Declarações das variáveis
-nome, turma: caracter
+nome, turma, disciplina: caracter
 N1, N2, N3, N4, N5: inteiro
 resultado: real
 
@@ -28,7 +28,7 @@ leia(N4)
 escreval("N5: ")
 leia(N5)
 
-resultado <- (N1 + N2 + N3 + N4 + N5) / 5
+resultado <- (N1 + N2 + N3 + N4 + N5)/5
 escreval("Resultado: ",resultado:2:2)
 
 Fimalgoritmo
