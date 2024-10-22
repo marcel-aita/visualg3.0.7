@@ -1,0 +1,4 @@
+### 1. Faça um programa que leia o nome de uma aluna, a turma, e suas 5 notas inteiras de 0 a 10. Ao final, mostre o nome, a turma, as 5 notas e a média das notas digitadas.
+---
+### 2. Faça um programa que solicite o valor de uma prestação e a quantidade de dias que essa prestação está atrasada. O sistema deve cobrar 2% de juros/DIA de atraso. Ao final, mostrar o valor da prestação, o juros cobrado, os dias em atraso e o valor final a ser pago.
+---
