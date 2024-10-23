@@ -2,3 +2,4 @@
 ---
 ### 2. Faça um programa que solicite o valor de uma prestação e a quantidade de dias que essa prestação está atrasada. O sistema deve cobrar 2% de juros/DIA de atraso. Ao final, mostrar o valor da prestação, o juros cobrado, os dias em atraso e o valor final a ser pago.
 ---
+### 3. FUP que solicite o valor de uma prestação, a quantidade de dias em atraso e a taxa de juros que será cobrado ao mês. Ao final, mostre o valor original da prestação, os dias em atraso, o valor do juros que será cobrado e o valor final da prestação. 
