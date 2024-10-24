@@ -4,4 +4,6 @@
 ---
 ### 3. FUP que solicite o valor de uma prestação, a quantidade de dias em atraso e a taxa de juros que será cobrado ao mês. Ao final, mostre o valor original da prestação, os dias em atraso, o valor do juros que será cobrado e o valor final da prestação.
 ---
-### 4. FUP que solicite o nome de um aluno, a turma e suas 5 notas inteiras de 0 a 10. Ao final, mostre os dados solicitados, a média final e a situação (Média maior ou igual a 7 "APROVADO" e média menor que 7 "REPROVADO") 
+### 4. FUP que solicite o nome de um aluno, a turma e suas 5 notas inteiras de 0 a 10. Ao final, mostre os dados solicitados, a média final e a situação (Média maior ou igual a 7 "APROVADO" e média menor que 7 "REPROVADO").
+---
+### 5. FUP que solicite a quantidade de trakinas que uma pessoa deseja comprar. Caso a pessoa escolha comprar uma quantidade menor que 10 unidades, o preço da trakinas será R$2,00 a unidade. Caso compre uma quantidade maior ou igaul a 10 unidades, o preço será R$1,80 a unidade. Ao final mostre a quantidade de trakinas comprada, o valor unitário e o valor total.  
